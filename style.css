@@ -1,4 +1,20 @@
+html{
+    scroll-behavior: smooth;
+}
+
 body{
-    background-color: black;
+    background-color: #0E0004;
     color: white;
+    font-family: Georgia;
+}
+
+nav{
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline;
 }
